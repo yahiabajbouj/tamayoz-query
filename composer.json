@@ -3,7 +3,8 @@
     "description": "add some query can help you",
     "type": "library",
     "require": {
-      "php": ">=5.3.0"
+      "php": ">=5.3.0",
+      "laravel/framework": ">=5.6.*"
     },
     "license": "proprietary",
     "authors": [
@@ -12,5 +13,5 @@
         "email": "dev@tamayoz.com"
       }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "1.0.0"
   }
