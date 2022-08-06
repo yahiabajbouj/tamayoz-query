@@ -1,5 +1,5 @@
 {
-    "name": "tamayoz/query",
+    "name": "tamayoz/FSPQueryBuilder",
     "description": "add some query can help you",
     "type": "library",
     "require": {
