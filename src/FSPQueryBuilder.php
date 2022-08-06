@@ -1,8 +1,8 @@
 <?php
 
-namespace Src\TamayozQuery;
+namespace TamayozQuery;
 
-use Src\TamayozQuery\QuerySorter;
+use TamayozQuery\Classes\QuerySorter;
 use Illuminate\Contracts\Pagination\LengthAwarePaginator;
 use Illuminate\Database\Eloquent\Collection;
 
